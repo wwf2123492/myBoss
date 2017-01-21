@@ -1,0 +1,24 @@
+{% extends "test/list.html" %}
+{% block title %}A new greeting!{% endblock %}
+{% block body %}
+
+{% if errors %}
+Create Error:
+<ul>
+    {% for error in errors %}
+    <li><font color=red>{{ error }}</font>
+        {% endfor %}
+</ul>
+{% endif %}
+
+
+<form method="post" action="{% url action="update" %}" >
+    id:
+    {{greeting.id}}
+    </br>
+    Enter a new greeting:
+    <input name="greeting_id" type="hidden">{{greeting.id}}</input>
+    <textarea name="greeting_text">{{greeting.greeting_text}}</textarea>
+    <input type="submit">
+</form>
+{% endblock %}
