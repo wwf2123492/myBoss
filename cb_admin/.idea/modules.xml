@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deps/boss/boss.iml" filepath="$PROJECT_DIR$/deps/boss/boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/boss_db/boss_db.iml" filepath="$PROJECT_DIR$/deps/boss_db/boss_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cb_admin.iml" filepath="$PROJECT_DIR$/cb_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" filepath="$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/gen_smtp/gen_smtp.iml" filepath="$PROJECT_DIR$/deps/gen_smtp/gen_smtp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/jaderl/jaderl.iml" filepath="$PROJECT_DIR$/deps/jaderl/jaderl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lfe/lfe.iml" filepath="$PROJECT_DIR$/deps/lfe/lfe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" filepath="$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochicow/mochicow.iml" filepath="$PROJECT_DIR$/deps/mochicow/mochicow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" filepath="$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/boss/skel/project.iml" filepath="$PROJECT_DIR$/deps/boss/skel/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/simple_bridge/simple_bridge.iml" filepath="$PROJECT_DIR$/deps/simple_bridge/simple_bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/tinymq/tinymq.iml" filepath="$PROJECT_DIR$/deps/tinymq/tinymq.iml" />
+    </modules>
+  </component>
+</project>
